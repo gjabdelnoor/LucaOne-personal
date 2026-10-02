@@ -1,3 +1,13 @@
+> **Personal fork — @gjabdelnoor**
+>
+> This is my personal development fork of [LucaOne/LucaOne](https://github.com/LucaOne/LucaOne). I am keeping a copy with local fixes because I do not know when upstream will next be updated. This fork is independently maintained and is not an official LucaOne release.
+>
+> The default `main` branch includes the bf16/fp16 rotary dtype fix proposed in [upstream PR #127](https://github.com/LucaOne/LucaOne/pull/127). The upstream branches and Git history are preserved.
+>
+> **Original upstream README follows below.**
+
+---
+
 # LucaOne(LucaGPLM)
 ---
 
